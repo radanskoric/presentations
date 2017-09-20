@@ -21,6 +21,9 @@ layout: default
 * [Large Scale Refactoring (in Croatian)](./large_refactoring)
 * [Ruby on Rails Business Logic Organization](./ror_business_logic)
 
+### Presentations given at [Server Side Talks](https://www.meetup.com/Infinum-Server-Side-Talks/)
+* [Where's the business logic?](./business_logic)
+
 ## Project management
 
 ### Presentation given at [PMZG Meetup](https://www.meetup.com/PMZG-Project-Product-Management-Zagreb/)
