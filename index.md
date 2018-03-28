@@ -12,6 +12,8 @@ layout: default
 * [State of Remote Freelancing](https://www.youtube.com/watch?v=g9UgPsdP9vI) (Webcamp Zagreb 2015)
 
 ### Presentation given at [Ruby ZG meetup](https://www.meetup.com/rubyzg/)
+* [Stumbling off the Rails](./files/stumbling_off_the_rails.pdf)
+    ([keynote file](./files/stumbling_off_the_rails.key))
 * [Extreme programming explained](./files/extreme_programming.pdf)
     ([keynote file](./files/extreme_programming.key))
 * [**** microservices](./files/microservices.pdf)
