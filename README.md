@@ -1,4 +1,1 @@
-# presentations
-A personal repository to store presentations or materials related to presentations I did so that I can easily provide it to anyone interested.
-
-Some of them can be browsed [here](http://radanskoric.github.io/presentations).
+Content of this repostitory was merged into the main repostitory of my personal website and can be found here: https://github.com/radanskoric/radanskoric.github.io/tree/master/presentations or browsed online here: https://radanskoric.com/presentations/.
